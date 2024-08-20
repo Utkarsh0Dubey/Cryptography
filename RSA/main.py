@@ -30,7 +30,7 @@ def main():
     d = pow(e, - 1, phi_n)
 
     # Encrypt:
-    encryption = encrypt("asymmetric encryption", n, e)
+    encryption = encrypt("unyielding resolve through darkness", n, e)
     print(encryption)
     # Decrypt:
     decryption = decrypt(encryption, n, d)
